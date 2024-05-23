@@ -1,0 +1,98 @@
+.container {
+    margin: 0 auto;
+    width: 1360px;
+    }
+    
+    body {
+        background: #4d878d url(images/noise.png);
+        font-family: Arial, "Lucida Grande", "Lucida Sans Unicode", Verdana, sans-serif;
+        color: rgb(218, 204, 204) ;
+        line-height: 1.5;
+    }
+
+         .place img {
+        border: 1px solid #cccccc;
+        float: left;
+        margin: 30px 30px 0 0;
+        padding: 10px;
+        width: 500px;
+        }
+
+         .place {
+        border-color: #accbf5 #58a5aa #b3eefd #CCC;
+        background-color: #3d7275;
+        border: 1px solid #CCC;
+        margin-bottom: 20px;
+        padding: 10px;
+        }
+
+         .place h2 {
+            border-bottom: 1px dashed #cfc5a4;
+            margin: 0;
+            }
+
+         .place a {
+                color: #b8c593;
+                font-weight: bold;
+                font-style: italic;
+                }
+
+         .places {
+                    float: left;
+                    width: 860px;
+                    }
+
+
+                    .sidenote {
+                    background-color: #3d7275;
+                    border: 1px solid #ffffff;
+                    float: right;
+                    padding: 10px;
+                    width: 360px;
+                    margin-bottom: 20px;
+
+
+                    }
+                    .sidenote h3 {
+                    font-size: 14px;
+                    margin-top: 0;
+                    font-family:Georgia, 'Times New Roman', Times, serif;
+                    }
+                    .sidenote ol {
+                    font-size: 12px;
+                    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+                    }
+            
+   
+    
+        p{
+            font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        }
+
+        h1{
+            font-family:Georgia, 'Times New Roman', Times, serif;
+            color:rgba(245, 240, 225, 0.911) ;
+            font-weight: bold;
+        }
+        h1 a:hover {
+            background-color: #19809f;
+            color: #FFF;
+            }
+
+        h2{
+            font-family:Georgia, 'Times New Roman', Times, serif;
+            color:rgba(230, 222, 200, 0.911) ;
+        }
+                .clear {
+                 clear: both;
+                 }
+              .footer {
+                font-size: 12px;
+                text-align: center;
+                font-style: italic;
+                color:#2bff00
+                }
+       
+        
+    
+       
